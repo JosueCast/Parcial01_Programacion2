@@ -1,0 +1,6 @@
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaEntidades\obj\Debug\CapaEntidades.pdb

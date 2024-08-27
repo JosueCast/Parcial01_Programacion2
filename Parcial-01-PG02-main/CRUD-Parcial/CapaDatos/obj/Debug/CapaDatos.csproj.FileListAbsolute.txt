@@ -1,0 +1,18 @@
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaDatos\obj\Debug\CapaDatos.pdb

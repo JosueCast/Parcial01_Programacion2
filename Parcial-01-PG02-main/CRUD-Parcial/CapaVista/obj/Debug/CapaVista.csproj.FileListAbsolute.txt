@@ -1,0 +1,37 @@
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\bin\Debug\CapaVista.exe.config
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\bin\Debug\CapaVista.exe
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\bin\Debug\CapaVista.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\bin\Debug\CapaEntidades.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\bin\Debug\CapaLogica.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\bin\Debug\CapaDatos.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\bin\Debug\CapaEntidades.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\bin\Debug\CapaLogica.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\bin\Debug\CapaDatos.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.RegistrarProducto.resources
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.VerProducto.resources
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.exe
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Parcial-01-PG02\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\bin\Debug\CapaEntidades.dll
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\bin\Debug\CapaLogica.dll
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\bin\Debug\CapaDatos.dll
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\bin\Debug\CapaEntidades.pdb
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\bin\Debug\CapaLogica.pdb
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\bin\Debug\CapaDatos.pdb
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.RegistrarProducto.resources
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.VerProducto.resources
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\darks\Desktop\Parcial-01-PG02-main\CRUD-Parcial\CapaVista\bin\Debug\FontAwesome.Sharp.dll
